@@ -1,0 +1,6 @@
+tkinter
+random
+datetime
+PIL
+tkcalendar
+mysql.connector
